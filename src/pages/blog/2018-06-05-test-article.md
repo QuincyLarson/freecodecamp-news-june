@@ -7,12 +7,14 @@ tags:
   - testing
   - tests
 ---
+![Test alt text](/img/freecodecamp-socialbanner.png)
+
 ```javascript
 console.log("test");
 ```
-Hello world!
-======
 
-### hello! 
+# Hello world!
+
+### hello!
 
 <p><a href="https://test.com">test post</a>
